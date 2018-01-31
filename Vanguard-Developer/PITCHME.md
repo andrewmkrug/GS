@@ -36,7 +36,7 @@
 ---?include=md/vanguard/lab_3.md
 
 ---?include=md/step_5.md
-+++?include=code/java/selenium-workshop-code-examples/05-base-page-object/src/test/java/pageobjects/Base.java
+---?include=code/java/selenium-workshop-code-examples/05-base-page-object/src/test/java/pageobjects/Base.java
 
 @[11-13](Constructor setting driver as a class level variable)
 @[15-17](Wrapping Selenium command, easier to remember)
@@ -48,11 +48,11 @@
 +++
 # Implementing the Base Page Object
 
-+++?include=code/java/selenium-workshop-code-examples/05-base-page-object/src/test/java/pageobjects/Login.java
+---?include=code/java/selenium-workshop-code-examples/05-base-page-object/src/test/java/pageobjects/Login.java
 @[9-14](Same locators)
 @[16-21](Constructor using new method and calling parent constructor)
 @[23-27](Refactored method with new wrapped methods)
 ---?include=md/step_6.md
-+++?include=waiting.md
+---?include=waiting.md
 ---?include=md/step_7.md
 
