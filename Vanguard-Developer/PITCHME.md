@@ -2,15 +2,15 @@
 
 ## Andrew Krug
 
----?include=md/about-me.md
+---?include=/md/about-me.md
 
----?include=md/selenium-intro.md
+---?include=/md/selenium-intro.md
 
----?include=md/selenium-overview.md
+---?include=/md/selenium-overview.md
 
----?include=md/step_1.md
+---?include=/md/step_1.md
 
----?include=md/step_2.md
+---?include=/md/step_2.md
 
 +++ 
 
