@@ -4,6 +4,12 @@
 
 # Selenium Supports
 
+* Firefox
+* Chrome
+* Internet Explorer
+* Safari
+
+
 +++
 
 # Selenium Language Bindings
@@ -19,6 +25,7 @@
 +++
 
 # Selenium Visitors
+
 
 +++
 

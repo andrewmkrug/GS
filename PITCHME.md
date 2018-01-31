@@ -23,6 +23,7 @@
 ---?include=md/vanguard/computer_setup.md
 
 ---?include=md/step_3.md
+---?include=md/finding_good_locators.md
 
 ---?include=md/vanguard/lab_1.md
 

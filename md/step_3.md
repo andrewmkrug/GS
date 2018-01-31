@@ -76,4 +76,3 @@
 - ~~Tag Name~~
 - ***XPath***
 
----?include=md/finding_good_locators.md
