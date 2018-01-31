@@ -9,10 +9,10 @@
 
 # What you should be asking
 
-1. How does your business make money? |
-2. What features of your application are being used? |
-3. What browsers are your users using? |
-4. What things have broken before? |
+* How does your business make money? |
+* What features of your application are being used? |
+* What browsers are your users using? |
+* What things have broken before? |
 
 +++
 
