@@ -38,7 +38,7 @@
 - descriptive |
 - unlikely to change |
 
-That means some of these are not great |
+<p class='fragment'>That means some of these are not great</p>
 
 +++
 

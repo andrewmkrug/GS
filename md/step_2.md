@@ -10,7 +10,7 @@
 
 # How to Pick
 
-1. Same language as the app? |
-2. Who will own it? |
-3. Build a framework or use an existing one? |
-4. What tooling have you already built? |
+* Same language as the app? |
+* Who will own it? |
+* Build a framework or use an existing one? |
+* What tooling have you already built? |

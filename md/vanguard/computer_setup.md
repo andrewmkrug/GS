@@ -21,6 +21,9 @@ options.setExperimentalOption("useAutomationExtension", false);
 
 @[3](Add this line)
 
++++
+# How to get Chrome to work
+
 ```xml
 <parent>
     <groupId>com.vanguard</groupId>
