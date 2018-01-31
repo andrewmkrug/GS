@@ -2,9 +2,9 @@
 
 ## Andrew Krug
 
----?include=/md/about-me.md
+---?include=../md/about-me.md
 
----?include=/md/selenium-intro.md
+---?include=../md/selenium-intro.md
 
 ---?include=/md/selenium-overview.md
 
