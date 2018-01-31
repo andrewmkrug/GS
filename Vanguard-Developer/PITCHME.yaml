@@ -1,6 +1,6 @@
 slide-number : true
 highlight : Darkula
-logo : assets/logo.png
+#logo : assets/logo.png
 footnote : "© 2018 Lazy Coder IO"
 theme : moon
 theme-override : assets/css/PITCHME.css
