@@ -30,7 +30,7 @@
 * **Find** the login form’s password field and **input** text
 * **Find** the submit button and **click** it
 
-+++?code=code/java/selenium-workshop-code-examples/02-your-first-test/src/test/java/tests/TestLogin.java&title=Your First Test!
++++?include=code/java/selenium-workshop-code-examples/02-your-first-test/src/test/java/tests/TestLogin.java&title=Your First Test!
 
 @[30-33](Go package main for executable command)
 
