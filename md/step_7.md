@@ -14,7 +14,7 @@
 
 +++
 # Folder Structure
-![folder structure for selenium](assests/img/folder_structure.png)
+![folder structure for selenium](assests/imgage/folder_structure.png)
 
 +++
 # Central Setup & Teardown

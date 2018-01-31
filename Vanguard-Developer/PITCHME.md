@@ -28,9 +28,13 @@
 
 ---?include=md/step_4.md
 
+---?include=md/vanguard/lab_2.md
+
+---?include=md/vanguard/lab_3.md
+
 ---?include=md/step_5.md
 
 ---?include=md/step_6.md
-
++++?include=waiting.md
 ---?include=md/step_7.md
 

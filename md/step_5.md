@@ -21,7 +21,9 @@
 
 insert code for login test
 
----?include=vanguard/lab_4.md
+---
+# Lab 4
+## Page Objects
 
 ---
 # Can I have some more abstraction?
@@ -37,7 +39,10 @@ insert code for login test
 * Readability |
 * Insulated from Selenium API changes |
 
----?include=vanguard/lab_5.md
+---
+# Lab 5
+## Base Page Object
+---
 
 +++?include=code/java/selenium-workshop-code-examples/05-base-page-object/src/test/java/pageobjects/Base.java
 

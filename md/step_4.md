@@ -34,6 +34,3 @@
 
 @[30-33](Go package main for executable command)
 
----?include=md/vanguard/lab_2.md
-
----?include=md/vanguard/lab_3.md
