@@ -55,4 +55,4 @@
 ---?include=md/step_6.md
 ---?include=md/waiting.md
 ---?include=md/step_7.md
----?include=https://raw.githubusercontent.com/tourdedave/selenium-workshop-code-examples/master/02-your-first-test/pom.xml&lang=xml
+---?include=https://raw.githubusercontent.com/tourdedave/selenium-workshop-code-examples/master/02-your-first-test/pom.xml&lang=XML
