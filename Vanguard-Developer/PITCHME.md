@@ -53,6 +53,6 @@
 @[16-21](Constructor using new method and calling parent constructor)
 @[23-27](Refactored method with new wrapped methods)
 ---?include=md/step_6.md
----?include=waiting.md
+---?include=md/waiting.md
 ---?include=md/step_7.md
 
