@@ -2,29 +2,15 @@
 
 ## Andrew Krug
 
----
-# Who am I?
+---?include=md/about-me.md
 
-- Automation Engineer for Entire Career
-- Instructor at Selenium Conferences |
-- Committee member of Selenium Conference |
-- Eat, Sleep, Automate |
-- Not in that order all the time |
+---?include=md/selenium-intro.md
 
-+++
+---?include=md/selenium-overview.md
 
-# Follow Me
+---?include=md/step_1.md
 
-- [@lazycoderio]()
-- [lazycoder.io]()
-
----?include=../md/selenium-intro.md
-
----?include=./md/selenium-overview.md
-
----?include=/md/step_1.md
-
----?include=/md/step_2.md
+---?include=md/step_2.md
 
 +++ 
 
