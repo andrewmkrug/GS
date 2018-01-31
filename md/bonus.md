@@ -9,6 +9,13 @@ js.executeScript(Script,Arguments);
 ```
 
 +++
+# WebDriver JS
+
+```js
+js.executeScript("arguments[0].scrollIntoView(true);", element);
+```
+
++++
 # WebElement
 
 Can also call driver.findElement()
