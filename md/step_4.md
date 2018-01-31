@@ -18,18 +18,22 @@
 +++
 
 # Login Example
-1. Visit the login form |
-2. Find the login form’s username field and input text |
-3. Find the login form’s password field and input text |
-4. Find the submit button and click it |
+* Visit the login form |
+* Find the login form’s username field and input text |
+* Find the login form’s password field and input text |
+* Find the submit button and click it |
 
 +++
 # Login Example
-1. **Visit** the login form
-2. **Find** the login form’s username field and **input** text
-3. **Find** the login form’s password field and **input** text
-4. **Find** the submit button and **click** it
+* **Visit** the login form
+* **Find** the login form’s username field and **input** text
+* **Find** the login form’s password field and **input** text
+* **Find** the submit button and **click** it
 
 +++?code=code/java/selenium-workshop-code-examples/02-your-first-test/src/test/java/tests/TestLogin.java&title=Your First Test!
 
-@[1](Go package main for executable command)
+@[30-33](Go package main for executable command)
+
+---?include=md/vanguard/lab_2.md
+
+---?include=md/vanguard/lab_3.md

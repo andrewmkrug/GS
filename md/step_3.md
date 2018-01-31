@@ -54,12 +54,11 @@
 
 +++
 
-# Locator Strategies
 ## Start with
 
-- **Class**
+- ***Class***
 - CSS selectors
-- **ID**
+- ***ID***
 - ~~Link Text~~
 - ~~Partial Link Text~~
 - ~~Tag Name~~
@@ -67,15 +66,14 @@
 
 +++
 
-# Locator Strategies
 ## Fallback with Care
 
-- **Class**
-- __CSS selectors__
-- **ID**
+- ***Class***
+- ***CSS selectors***
+- ***ID***
 - ~~Link Text~~
 - ~~Partial Link Text~~
 - ~~Tag Name~~
-- __XPath__
+- ***XPath***
 
 ---?include=md/finding_good_locators.md

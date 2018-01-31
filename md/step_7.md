@@ -26,4 +26,9 @@
 +++
 # Import when needed
 
----?code=path/to/source.file&lang=language-hint
++++?code=code/java/selenium-workshop-code-examples/07-framework/src/test/java/tests/Config.java
+
++++?include=code/java/selenium-workshop-code-examples/07-framework/src/test/java/pageobjects/Base.java
+@[19-25](Sweet updated method)
+@[20-21](If full url then navigate directly)
+@[22-23](Else append parameter to baseUrl)

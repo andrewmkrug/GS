@@ -28,3 +28,9 @@
 
 ---?include=md/step_4.md
 
+---?include=md/step_5.md
+
+---?include=md/step_6.md
+
+---?include=md/step_7.md
+
