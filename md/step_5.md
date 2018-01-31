@@ -44,19 +44,3 @@ insert code for login test
 ## Base Page Object
 ---
 
-+++?include=code/java/selenium-workshop-code-examples/05-base-page-object/src/test/java/pageobjects/Base.java
-
-@[11-13](Constructor setting driver as a class level variable)
-@[15-17](Wrapping Selenium command, easier to remember)
-@[19-21](Making Se command easier to write)
-@[23-25](Using new method to make the methods easier)
-@[27-29](Making typing easier)
-@[31-37](Catching Exception if not found)
-
-+++
-# Implementing the Base Page Object
-
-+++?include=code/java/selenium-workshop-code-examples/05-base-page-object/src/test/java/pageobjects/Login.java
-@[9-14](Same locators)
-@[16-21](Constructor using new method and calling parent constructor)
-@[23-27](Refactored method with new wrapped methods)
