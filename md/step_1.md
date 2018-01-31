@@ -3,7 +3,7 @@
 
 +++
 
-# What questions do you ask when starting a new project?
+# How do you define the test strategy?
 
 +++
 
